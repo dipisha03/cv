@@ -1,0 +1,30 @@
+
+img {
+  border-radius: 50%;
+}
+
+body {
+  background-color: #d6f8b8;
+  font-family: 'Amatic SC', cursive;
+  font-size: 18px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #acdeaa;
+  border-width: 5px;
+  width: 10%;
+}
+
+h2 {
+  color: #6b7b8e;
+}
+
+h4 {
+  color: #6b7b8e;
+}
+
+.td {
+  color: #acdeaa;
+}
